@@ -5,5 +5,5 @@ Hands-on practice notebooks/scripts for Python libraries I'm learning, organized
 ## Structure
 libraries-practice/
 ├── pandas/
-│ ├── 01_series_basics.py
+│ ├── 
 └── 
